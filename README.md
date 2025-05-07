@@ -28,7 +28,7 @@ Phone: +92 3-------- </p>
 <h2>Hobbies and Interests</h2>
 <ul>
 <li>Sports (Basketball, Cricket, Badminton)</li>
-<li>Exercise</li>
+<li>Travelling</li>
 <li>reading </li>
 </ul>
 
